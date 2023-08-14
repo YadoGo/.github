@@ -1,12 +1,11 @@
-## Hi there 👋
 
-<!--
+# YADO
 
-**Here are some ideas to get you started:**
+<img alt="Header" src="./.img/header.png">
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The main goal of this final bootcamp project is to save you time and money when searching for a hotel for your travels. By gathering information from multiple hotel websites, the service provides users with a more efficient way to find cost-effective and suitable options for their travel needs. As a result, the project becomes a valuable tool for those who want to make the most of their travel experience without worrying about extensively searching for the best accommodation deals.
+
+## Team
+- [emagrina](https://github.com/emagrina)
+- [GitJanPlata](https://github.com/GitJanPlata)
+- [davidtomas98](https://github.com/davidtomas98)
